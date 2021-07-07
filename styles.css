@@ -1,0 +1,19 @@
+h2 {
+  font-family: sans-serif;
+}
+body {
+  background-color: gray;
+}
+button {
+  padding: 15px 10px;
+  font-size: 2vh;
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: gray;
+}
+button:hover {
+  box-shadow: 3px 3px 3px black;
+  transition: ease-in 0.2s;
+  border: 3px solid white;
+  color: white;
+}
